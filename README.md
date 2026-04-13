@@ -204,7 +204,7 @@ Currently in **Private Sale** phase. Register at:
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License © 2026 PingPong — www.pingpongcrypto.com
 
 ---
 
